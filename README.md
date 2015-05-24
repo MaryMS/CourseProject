@@ -51,7 +51,7 @@ Notes:
 
 - On the dataset the variables are an average result of each mean and standard deviation measures based on the original dataset. The dataset is grouped by Activity and Subject.
 
-* From the original file.
+*** From the original file.
 
 
 License*:
